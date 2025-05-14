@@ -113,6 +113,7 @@ filterwarnings = [
 [tool.coverage.run]
 branch = true
 source = ["flask", "tests"]
+#test komentarz
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
