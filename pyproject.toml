@@ -19,6 +19,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Application Frameworks",
     "Typing :: Typed",
 ]
+# kssk
 requires-python = ">=3.10"
 dependencies = [
     "blinker>=1.9.0",
